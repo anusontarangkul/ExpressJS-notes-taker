@@ -2,12 +2,8 @@
   "noteDB": [
     {
       "title": "Test Title",
-      "text": "Test text"
-    },
-    {
-      "title": "Title",
-      "text": "test",
-      "id": "1"
+      "text": "Test text",
+      "id": 0
     }
   ]
 }
